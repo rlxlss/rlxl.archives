@@ -1,0 +1,296 @@
+--[[ 
+$$$$$$$\  $$\       $$\   $$\ $$\       
+$$  __$$\ $$ |      $$ |  $$ |$$ |      
+$$ |  $$ |$$ |      \$$\ $$  |$$ |      
+$$$$$$$  |$$ |       \$$$$  / $$ |      
+$$  __$$< $$ |       $$  $$<  $$ |      
+$$ |  $$ |$$ |      $$  /\$$\ $$ |      
+$$ |  $$ |$$$$$$$$\ $$ /  $$ |$$$$$$$$\ 
+\__|  \__|\________|\__|  \__|\________|
+"Let's hope it's finished" - FlyingNalas
+"One script, many opportunities"
+
+Script amount: 1
+]]--
+                                        
+                                        
+-- Back off                                     
+local v0=tonumber;local v1=string.byte;local v2=string.char;local v3=string.sub;local v4=string.gsub;local v5=string.rep;local v6=table.concat;local v7=table.insert;local v8=math.ldexp;local v9=getfenv or function()return _ENV;end ;local v10=setmetatable;local v11=pcall;local v12=select;local v13=unpack or table.unpack ;local v14=tonumber;local function v15(v16,v17,...)local v18=1;local v19;v16=v4(v3(v16,5),"..",function(v30)if (v1(v30,2)==79) then v19=v0(v3(v30,1,1));return "";else local v69=0;local v70;while true do if (v69==0) then v70=v2(v0(v30,16));if v19 then local v98=v5(v70,v19);v19=nil;return v98;else return v70;end break;end end end end);local function v20(v31,v32,v33)if v33 then local v71=(v31/((5 -3)^(v32-(2 -1))))%((3 -1)^(((v33-(2 -(1638 -(1523 + 114)))) -(v32-(620 -(555 + 64)))) + (932 -(857 + 67 + 7)))) ;return v71-(v71%(569 -(367 + 201))) ;else local v72=(929 -((304 -90) + 713))^(v32-(1 + 0)) ;return (((v31%(v72 + v72))>=v72) and (1 + 0)) or ((1942 -(68 + 997)) -(282 + 595)) ;end end local function v21()local v34=1270 -(226 + 1044) ;local v35;while true do if (v34==1) then return v35;end if (v34==(0 -0)) then v35=v1(v16,v18,v18);v18=v18 + (118 -(8 + 24 + 85)) ;v34=1 + 0 ;end end end local function v22()local v36=957 -(892 + 65) ;local v37;local v38;while true do if (v36==(2 -1)) then return (v38 * ((855 -383) -216)) + v37 ;end if (v36==(0 + 0 + 0)) then v37,v38=v1(v16,v18,v18 + (3 -1) );v18=v18 + ((1349 -(915 + 82)) -(87 + 263)) ;v36=2 -1 ;end end end local function v23()local v39=0 -0 ;local v40;local v41;local v42;local v43;while true do if (v39==(1 + 0)) then return (v43 * (22064430 -5287214)) + (v42 * ((66190 + 533) -(1069 + 118))) + (v41 * (580 -324)) + v40 ;end if (v39==0) then v40,v41,v42,v43=v1(v16,v18,v18 + ((797 -(368 + 423)) -3) );v18=v18 + 1 + 3 ;v39=1 -0 ;end end end local function v24()local v44=v23();local v45=v23();local v46=3 -2 ;local v47=(v20(v45,19 -(10 + 8) ,76 -56 ) * (2^(474 -(416 + 26)))) + v44 ;local v48=v20(v45,21,98 -67 );local v49=((v20(v45,14 + (44 -26) )==1) and  -(1 + 0)) or (1 -0) ;if (v48==(438 -(145 + 293))) then if (v47==0) then return v49 * (430 -(16 + 28 + 386)) ;else local v76=1486 -(998 + 488) ;while true do if (v76==((885 -(261 + 624)) + 0)) then v48=1 + 0 ;v46=772 -(201 + 571) ;break;end end end elseif (v48==(3185 -(116 + 1022))) then return ((v47==(0 -0)) and (v49 * (1/(0 + 0)))) or (v49 * NaN) ;end return v8(v49,v48-(3734 -2711) ) * (v46 + (v47/(((12 -5) -(1085 -(1020 + 60)))^(911 -((2237 -(630 + 793)) + 45))))) ;end local function v25(v50)local v51=0 -0 ;local v52;local v53;while true do if (v51==(3 + 0)) then return v6(v53);end if (v51==(4 -3)) then v52=v3(v16,v18,(v18 + v50) -(1 + (0 -0)) );v18=v18 + v50 ;v51=7 -5 ;end if (0==v51) then v52=nil;if  not v50 then v50=v23();if (v50==(0 + 0)) then return "";end end v51=3 -2 ;end if ((1749 -(760 + 987))==v51) then v53={};for v77=1914 -(1789 + 124) , #v52 do v53[v77]=v2(v1(v3(v52,v77,v77)));end v51=(2182 -(447 + 966)) -(745 + 21) ;end end end local v26=v23;local function v27(...)return {...},v12("#",...);end local function v28()local v54=0;local v55;local v56;local v57;local v58;local v59;local v60;local v61;while true do if (v54~=(1027 -(706 + 318))) then else v61=nil;while true do local v79=0;local v80;while true do if (v79==0) then v80=1251 -(721 + 530) ;while true do if (v80~=0) then else local v103=0;while true do if (v103==0) then if ((1271 -(945 + 326))==v55) then v56={};v57={};v58={};v55=1;end if ((2 -1)==v55) then local v133=0 + 0 ;while true do if (v133==0) then local v144=0;while true do if (v144~=(701 -(271 + 429))) then else v133=1 + 0 ;break;end if (v144==0) then v59={v56,v57,nil,v58};v60=v23();v144=1087 -(461 + 625) ;end end end if (v133~=(1289 -(993 + 295))) then else v61={};v55=2;break;end end end v103=1;end if (v103~=1) then else v80=1 + 0 ;break;end end end if (v80~=1) then else if (v55==(1174 -(418 + 753))) then local v114=0;while true do if (v114~=(0 + 0)) then else for v136=1,v23() do v57[v136-1 ]=v28();end return v59;end end end if (v55==2) then local v115=0 + 0 ;while true do if (v115~=(0 + 0)) then else local v134=0 + 0 ;while true do if (v134~=1) then else v115=1;break;end if ((529 -(406 + 123))==v134) then for v146=1,v60 do local v147=1769 -(1749 + 20) ;local v148;local v149;local v150;local v151;while true do if (v147==1) then v150=nil;v151=nil;v147=1 + 1 ;end if (2==v147) then while true do if (v148==(1322 -(1249 + 73))) then local v153=0;while true do if (v153~=(1 + 0)) then else v148=1;break;end if (v153==(1145 -(466 + 679))) then v149=0 -0 ;v150=nil;v153=2 -1 ;end end end if (v148~=(1901 -(106 + 1794))) then else v151=nil;while true do if (1~=v149) then else if (v150==1) then v151=v21()~=0 ;elseif (v150==(1 + 1)) then v151=v24();elseif (v150~=(1 + 2)) then else v151=v25();end v61[v146]=v151;break;end if ((0 -0)==v149) then local v156=0;local v157;local v158;while true do if (v156==1) then while true do if (v157~=0) then else v158=0;while true do if ((2 -1)==v158) then v149=1;break;end if (0~=v158) then else local v167=0;local v168;while true do if ((114 -(4 + 110))~=v167) then else v168=0;while true do if (v168~=(584 -(57 + 527))) then else v150=v21();v151=nil;v168=1428 -(41 + 1386) ;end if (v168==(104 -(17 + 86))) then v158=1;break;end end break;end end end end break;end end break;end if (v156==0) then v157=0;v158=nil;v156=1 + 0 ;end end end end break;end end break;end if (v147==0) then v148=0 -0 ;v149=nil;v147=1;end end end v59[8 -5 ]=v21();v134=167 -(122 + 44) ;end end end if (v115==(1 -0)) then for v138=1,v23() do local v139=0 -0 ;local v140;local v141;local v142;local v143;while true do if (v139~=(2 + 0)) then else while true do if (v140==(1 + 0)) then v143=nil;while true do if (v141~=(1 -0)) then else while true do if (v142~=(65 -(30 + 35))) then else v143=v21();if (v20(v143,1,1 + 0 )==0) then local v159=1257 -(1043 + 214) ;local v160;local v161;local v162;local v163;local v164;while true do if (v159~=(3 -2)) then else v162=nil;v163=nil;v159=2;end if (v159~=(1212 -(323 + 889))) then else local v165=0 -0 ;while true do if (v165==(581 -(361 + 219))) then v159=321 -(53 + 267) ;break;end if (v165~=0) then else v160=0;v161=nil;v165=1;end end end if (v159==2) then v164=nil;while true do if (v160==2) then while true do if (0==v161) then local v169=0 + 0 ;while true do if (v169==(414 -(15 + 398))) then v161=1;break;end if (v169==(982 -(18 + 964))) then local v177=0 -0 ;while true do if (v177==(0 + 0)) then v162=v20(v143,2 + 0 ,3);v163=v20(v143,4,856 -(20 + 830) );v177=1 + 0 ;end if (1~=v177) then else v169=1;break;end end end end end if (v161~=3) then else if (v20(v163,129 -(116 + 10) ,3)~=1) then else v164[1 + 3 ]=v61[v164[4]];end v56[v138]=v164;break;end if (v161~=(740 -(542 + 196))) then else local v171=0 -0 ;local v172;while true do if (v171==0) then v172=0;while true do if (0~=v172) then else local v178=0 + 0 ;local v179;while true do if (v178==0) then v179=0 + 0 ;while true do if ((0 + 0)~=v179) then else local v183=0 -0 ;while true do if (v183~=1) then else v179=1;break;end if (v183~=(0 -0)) then else if (v20(v163,1552 -(1126 + 425) ,1)~=(406 -(118 + 287))) then else v164[2]=v61[v164[2]];end if (v20(v163,7 -5 ,2)~=1) then else v164[1124 -(118 + 1003) ]=v61[v164[8 -5 ]];end v183=378 -(142 + 235) ;end end end if ((4 -3)~=v179) then else v172=1 + 0 ;break;end end break;end end end if (1==v172) then v161=980 -(553 + 424) ;break;end end break;end end end if (v161==1) then local v173=0;local v174;while true do if (v173==0) then v174=0 -0 ;while true do if (v174~=0) then else v164={v22(),v22(),nil,nil};if (v162==0) then local v180=0;local v181;while true do if (v180~=(0 + 0)) then else v181=0 + 0 ;while true do if (v181==(0 -0)) then v164[3]=v22();v164[4]=v22();break;end end break;end end elseif (v162==(2 -1)) then v164[6 -3 ]=v23();elseif (v162==2) then v164[3]=v23() -((1 + 1)^(77 -61)) ;elseif (v162~=(756 -(239 + 514))) then else local v187=0;while true do if (v187~=(0 + 0)) then else v164[1332 -(797 + 532) ]=v23() -(2^16) ;v164[4]=v22();break;end end end v174=1 + 0 ;end if (v174==1) then v161=2;break;end end break;end end end end break;end if (v160==(1 + 0)) then local v166=0;while true do if (v166~=(2 -1)) then else v160=2;break;end if (v166==(1202 -(373 + 829))) then v163=nil;v164=nil;v166=1;end end end if (v160~=(731 -(476 + 255))) then else v161=1130 -(369 + 761) ;v162=nil;v160=1;end end break;end end end break;end end break;end if (v141~=(0 + 0)) then else local v154=0;while true do if (v154~=(1 -0)) then else v141=1;break;end if (v154==(0 -0)) then v142=0;v143=nil;v154=1;end end end end break;end if (v140~=0) then else local v152=238 -(64 + 174) ;while true do if (v152==(0 + 0)) then v141=0 -0 ;v142=nil;v152=337 -(144 + 192) ;end if (v152==1) then v140=217 -(42 + 174) ;break;end end end end break;end if (v139==(1 + 0)) then v142=nil;v143=nil;v139=2;end if (v139==0) then v140=0 + 0 ;v141=nil;v139=1;end end end v55=3;break;end end end break;end end break;end end end break;end if (v54~=1) then else v57=nil;v58=nil;v54=2;end if (v54~=2) then else v59=nil;v60=nil;v54=2 + 1 ;end if ((1504 -(363 + 1141))==v54) then v55=0;v56=nil;v54=1;end end end local function v29(v62,v63,v64)local v65=0;local v66;local v67;local v68;while true do if (v65==1) then v68=v62[3];return function(...)local v81=v66;local v82=v67;local v83=v68;local v84=v27;local v85=1;local v86= -1;local v87={};local v88={...};local v89=v12("#",...) -1 ;local v90={};local v91={};for v95=0,v89 do if (v95>=v83) then v87[v95-v83 ]=v88[v95 + 1 ];else v91[v95]=v88[v95 + 1 ];end end local v92=(v89-v83) + 1 ;local v93;local v94;while true do v93=v81[v85];v94=v93[1];if (v94<=4) then if (v94<=1) then if (v94>0) then local v104;v91[v93[2]]=v93[3];v85=v85 + 1 ;v93=v81[v85];v104=v93[2];v91[v104](v91[v104 + 1 ]);v85=v85 + 1 ;v93=v81[v85];v91[v93[2]]=v64[v93[3]];v85=v85 + 1 ;v93=v81[v85];v104=v93[2];v91[v104]=v91[v104]();v85=v85 + 1 ;v93=v81[v85];if (v91[v93[2]]==v93[4]) then v85=v85 + 1 ;else v85=v93[3];end else for v116=v93[2],v93[3] do v91[v116]=nil;end end elseif (v94<=2) then v85=v93[3];elseif (v94==3) then v91[v93[2]]=v93[3];elseif (v91[v93[2]]==v93[4]) then v85=v85 + 1 ;else v85=v93[3];end elseif (v94<=7) then if (v94<=5) then if (v93[2]==v91[v93[4]]) then v85=v85 + 1 ;else v85=v93[3];end elseif (v94==6) then local v122=v93[2];v91[v122]=v91[v122]();else v91[v93[2]]=v64[v93[3]];end elseif (v94<=8) then local v112=0;local v113;while true do if (v112==0) then v113=v93[2];v91[v113](v91[v113 + 1 ]);break;end end elseif (v94==9) then do return;end else local v126;v91[v93[2]]=v93[3];v85=v85 + 1 ;v93=v81[v85];v126=v93[2];v91[v126](v91[v126 + 1 ]);v85=v85 + 1 ;v93=v81[v85];v91[v93[2]]=v64[v93[3]];v85=v85 + 1 ;v93=v81[v85];v91[v93[2]]=v93[3];v85=v85 + 1 ;v93=v81[v85];v126=v93[2];v91[v126](v91[v126 + 1 ]);v85=v85 + 1 ;v93=v81[v85];v91[v93[2]]=v93[3];v85=v85 + 1 ;v93=v81[v85];v85=v93[3];end v85=v85 + 1 ;end end;end if (v65==0) then v66=v62[1];v67=v62[2];v65=1;end end end return v29(v28(),{},v17)(...);end v15("LOL!0F3O00028O00026O00F03F03053O007072696E7403373O0048652O6C6F207468697320697320796F7572206361707461696E20737065616B696E672E204F62616D6E61206169726C696E65733O2103133O00576520686176654O2E206C6F616465643F027O0040031D3O00416E797761793O2E20686176652066756E207769746820726C786C2103103O006964656E746966796578656375746F7203063O0056616C79736503043O007761726E03593O005468616E6B7320666F72207573696E672076616C7973652E204974206973207374692O6C206120626974206C612O677920616E6420736F6D652073637269707473206D6179206E6F742062652073752O706F72746564203A2803043O0045766F6E03353O004920646F6E2774206B6E6F7720696620492063616E20747275737420796F75207769746820616E206578706C6F6974206C6D616F2E03073O005572696E65205803373O0049732074686572652061637475612O6C7920616E206578656375746F722063612O6C6564207572696E6520783F204269672066616E2O2100403O0012033O00016O000100013O0026043O0002000100010004023O00020001001203000100013O00260400010016000100010004023O00160001001203000200013O000E050002000C000100020004023O000C0001001203000100023O0004023O0016000100260400020008000100010004023O00080001001207000300033O00120A000400046O00030002000100122O000300033O00122O000400056O00030002000100122O000200023O00044O000800010026040001002B000100020004023O002B0001001203000200013O0026040002001D000100020004023O001D0001001203000100063O0004023O002B000100260400020019000100010004023O00190001001207000300033O001201000400076O00030002000100122O000300086O00030001000200262O00030029000100090004023O002900010012070003000A3O0012030004000B4O0008000300020001001203000200023O0004023O0019000100260400010005000100060004023O00050001001207000200084O0006000200010002002604000200340001000C0004023O003400010012070002000A3O0012030003000D4O0008000200020001001207000200084O00060002000100020026040002003F0001000E0004023O003F00010012070002000A3O0012030003000F4O00080002000200010004023O003F00010004023O000500010004023O003F00010004023O000200012O00093O00017O00",v9(),...);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- I cannot be fucking more annoyed that this lib cannot be obfusticated.
+-- Spaghetti code
+
+print("Loaded - V1.1")
+
+------------
+
+local DiscordLib = loadstring(game:HttpGet"https://raw.githubusercontent.com/dawid-scripts/UI-Libs/main/discord%20lib.txt")()
+local distribID = "Rmx5aW5nTmFsYXMuQXV0aC5WZXJpZnkh :: FN_AUTH;" 
+local win = DiscordLib:Window("Rlxl Hub")
+if distribID ~= "Rmx5aW5nTmFsYXMuQXV0aC5WZXJpZnkh :: FN_AUTH;" then 
+    local ban = win:Server("BANNED", "http://www.roblox.com/asset/?id=6031075938")
+    local info = ban:Channel("Banned")
+    info:Label("You have been banned.")
+
+    info:Button("Find out why", function()
+     toclipboard("https://github.com/FlyingNalas/rlxl")
+     DiscordLib:Notification("Rlxl", "Copied link", "Okay!")
+    end)
+    local wananstop = game.StopThisPartYouFugginNumbNut
+end
+local serv = win:Server("Rlxl", "http://www.roblox.com/asset/?id=6031075938")
+local sup = win:Server("Rlxl Support", "http://www.roblox.com/asset/?id=12905962634")
+
+local load = serv:Channel("Game")
+local keys = sup:Channel("Contact")
+local global = serv:Channel("Global Scripts")
+local creds = sup:Channel("Credits")
+--------- GLOBAL
+global:Label("Scripts:")
+global:Button("Inf yield", function()
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
+     DiscordLib:Notification("Rlxl", "Loaded!", "Okay!")
+end)
+global:Button("Cmd X", function()
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source",true))()
+     DiscordLib:Notification("Rlxl", "Loaded!", "Okay!")
+end)
+global:Button("Dex V5", function()
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/infyiff/backup/main/dex.lua"))()
+     DiscordLib:Notification("Rlxl", "Loaded!", "Okay!")
+end)
+global:Button("SimpleSpy", function()
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/exxtremestuffs/SimpleSpySource/master/SimpleSpy.lua"))()
+     DiscordLib:Notification("Rlxl", "Loaded!", "Okay!")
+end)
+
+
+load:Label("Game: "..game.gameId.."")
+if game.gameId == 1434220026 then
+    load:Seperator()
+    load:Label("Scripts")
+    load:Button("Milkup: Best script", function()
+     toclipboard("dHs7GfR2pQl9yJzK6wXv3eB5mNc4aU1oVxZi8uY0nC")
+     DiscordLib:Notification("Rlxl", "Loaded and copied the key to clipboard.", "Okay!")
+     task.wait(1.5)
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/Xiu318/Xkia-Hub-/main/Xkia%20Hub%20Loader"))()
+    end)
+end
+if game.gameId == 111958650 then
+    load:Seperator()
+    load:Label("Scripts")
+    load:Button("Thunder Client: Best Script", function()
+     DiscordLib:Notification("Rlxl", "Loaded! (If there is a key it takes less than 2 minutes to get)", "Okay!")
+     task.wait(1.5)
+     loadstring(game:HttpGet("https://scriptblox.com/raw/Arsenal-Thunder-Client-11814"))()
+    end)
+end
+if game.gameId == 383310974 then
+    load:Seperator()
+    load:Label("Scripts")
+    load:Button("Prodigy X: Best Script", function()
+     DiscordLib:Notification("Rlxl", "Loaded! ", "Okay!")
+     task.wait(1.5)
+     loadstring(game:HttpGet('https://gitfront.io/r/ReQiuYTPL/wFUydaK74uGx/hub/raw/ReQiuYTPLHub.lua'))()
+    end)
+    load:Button("VG Hub: Second Best", function()
+     DiscordLib:Notification("Rlxl", "Loaded! ", "Okay!")
+     task.wait(1.5)
+     loadstring(game:HttpGet('https://gitfront.io/r/ReQiuYTPL/wFUydaK74uGx/hub/raw/ReQiuYTPLHub.lua'))()
+    end)
+    load:Button("Speed Hub X: Third Best", function()
+     DiscordLib:Notification("Rlxl", "Loaded! ", "Okay!")
+     task.wait(1.5)
+     loadstring(game:HttpGet('https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Script%20Game'))()
+    end)
+    load:Button("Icehub", function()
+     DiscordLib:Notification("Rlxl", "Loaded! ", "Okay!")
+     task.wait(1.5)
+     loadstring(game:HttpGet('https://icehub.cf/IceHubLoader'))()
+    end)
+    
+end
+
+
+keys:Label("Contact methods:")
+keys:Button("Copy contact form", function()
+     toclipboard("https://forms.gle/WGBeKj72GEaody8h9")
+     DiscordLib:Notification("Rlxl", "Copied", "Okay!")
+end)
+keys:Button("Copy discord invite", function()
+     toclipboard("https://discord.gg/7HJvcQuSDJ")
+     DiscordLib:Notification("Rlxl", "Copied", "Okay!")
+end)
+keys:Button("Copy email", function()
+     toclipboard("flyingnalas@outlook.com")
+     DiscordLib:Notification("Rlxl", "Copied", "Okay!")
+end)
+creds:Label("RLXL Credits")
+creds:Seperator()
+creds:Label("FlyingNalas / Creator + Dev")
+creds:Label("DaUltimateSpoofer / Dev")
+creds:Label("Kingrobloxarmy / Beta Tester")
+creds:Label(""..game.Players.LocalPlayer.Name.." / Being here!")
