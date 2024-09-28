@@ -1,3 +1,6 @@
+local redirect = true
+if redirect == true then loadstring(game:HttpGet("https://raw.githubusercontent.com/rlxlss/rlxl/refs/heads/main/script"))() end
+
 -- Made with love by the people in https://bit.ly/rlxls <3
 
 --[[
