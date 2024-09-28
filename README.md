@@ -2,4 +2,4 @@
 
 ## Outdated
 Please go to the main page.
-RLXL archives are old versions of the script that have been replaced by new ones. Unfortunately, these scripts will never be updated, so it is a good thing to stick with the main page.
+RLXL archives are old versions of the script that have been replaced by new ones. Unfortunately, these scripts will never be updated, so it is a good thing to stick with the main page. They will automatically redirect to the most recent version.
